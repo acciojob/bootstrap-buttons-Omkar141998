@@ -9,24 +9,24 @@ body{
     margin: 0px 50px 0px 50px;
 }
 
-#button1{
+#button-1{
    height: 35px;
  
 }
-#button2{
+#button-2{
     height: 35px;
     background-color: white;
     color: black;
   
  }
- #button4{
+ #button-4{
     height: 30px;
   
  }
- #button5{
+ #button-5{
     width: 92%;
  }
- #button8{
+ #button-8{
     text-decoration:underline;
     color: blue;
     background-color: white;
