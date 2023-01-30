@@ -19,6 +19,10 @@ body{
     color: black;
   
  }
+#button-3{
+	width:90px:
+	font-size:18px;
+}
  #button-4{
     height: 30px;
   
@@ -26,9 +30,18 @@ body{
  #button-5{
     width: 92%;
  }
+#button-6{
+    height: 35px;
+ 
+ }
+#button-7{
+    height:30px;
+ }
+
  #button-8{
     text-decoration:underline;
     color: blue;
     background-color: white;
     border: none;
+	 height:30px;
  }
